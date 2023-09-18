@@ -1,2 +1,2 @@
 # sun
-Weather CLI applicatian 
+Weather CLI application
