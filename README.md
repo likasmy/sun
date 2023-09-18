@@ -1,0 +1,2 @@
+# sun
+Weather CLI applicatian 
